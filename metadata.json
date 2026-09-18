@@ -1,0 +1,6 @@
+{
+  "name": "Rudra Precast",
+  "description": "Premium RCC & Precast Solutions for Residential, Industrial and Commercial Projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
